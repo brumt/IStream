@@ -15,6 +15,8 @@ In a world where music knows no boundaries, iStream emerges as the ultimate plat
 
 Join us at iStream. Let's stream together, support together, and celebrate together.
 
+Project's view on Vercel: https://i-stream-gold.vercel.app/
+
 ## Interface
 
 
